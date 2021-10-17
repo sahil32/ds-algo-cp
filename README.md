@@ -1,2 +1,3 @@
 # ds-algo-cp
-OM NAMAH SHIVAYE
+
+OFFICIAL DS ALGO 
